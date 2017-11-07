@@ -1,0 +1,14 @@
+.description {
+    color:pink;
+}
+.title{
+  color:purple;
+}
+
+.app{
+  display: flex;
+}
+
+{
+  box-sizing: border-box;
+}
